@@ -180,17 +180,6 @@ if (HAL_GPIO_ReadPin(GPIOA, NFAULT_PIN) == GPIO_PIN_RESET) {
 
 
 
----
-
-
-**Estimated cost: under ₹500 for 5 boards**
-
----
-
-
-```
-
----
 
 ## Design Decisions
 
